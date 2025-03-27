@@ -4,12 +4,11 @@
 # Ignore all .iml module files
 *.iml
 
-# (Optional) Ignore IntelliJ XML configuration files in the project root
+# Ignore IntelliJ XML configuration files in the project root
 misc.xml
 modules.xml
 vcs.xml
 
-# If you use other OS-specific or tool-specific files, you might add them too:
-# e.g., Mac .DS_Store, Windows Thumbs.db, etc.
+# Other OS-specific or tool-specific files, you might add them too:
 .DS_Store
 Thumbs.db
