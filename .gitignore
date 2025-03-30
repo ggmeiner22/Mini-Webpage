@@ -1,5 +1,6 @@
 # Ignore all JetBrains/IntelliJ IDEA project files and folders
 .idea/
+__pycache__/
 
 # Ignore all .iml module files
 *.iml
