@@ -307,7 +307,7 @@ def read_input():
 			num_words=num_words,
 			links=internal_links,
 			words=words,
-			weight=1  # to be computed later using PageRank
+			weight=1  # temp value, to be computed later using pagerank()
 		)
 		webpages.append(page)
 
